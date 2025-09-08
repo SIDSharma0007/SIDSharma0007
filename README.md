@@ -1,4 +1,4 @@
-#ABOUT ME 👋
+# ABOUT ME 👋
 ### 🔭 I’m currently working on nothing at all :>
 ### 🌱 I’m currently learning more about GIT and GITHUB
 ### 👯 I’m looking to collaborate on easier repos and documentations.
